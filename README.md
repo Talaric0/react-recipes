@@ -1,6 +1,6 @@
 # React-recipes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## https://talaric0.github.io/react-recipes/
 
 Built with React consuming [Edamam recipes API](https://www.edamam.com/).
 
